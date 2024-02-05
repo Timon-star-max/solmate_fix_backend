@@ -1,0 +1,16 @@
+
+/node_modules
+
+npm-debug.log
+yarn-error.log
+/logs/*.*
+
+yarn.lock
+
+/src/keypairs/*.*
+
+ormconfig.json
+ormconfig.prod.json
+/src/index.ts
+
+.env
